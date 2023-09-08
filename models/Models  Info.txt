@@ -1,0 +1,3 @@
+The model.h5 is the early stopped model with best suitable parameters 
+the model1.h5 was trained with 14 epochs and noearly stopping was applied 
+
