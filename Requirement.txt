@@ -1,0 +1,6 @@
+keras 
+pandas
+tensorflow
+numpy
+tqdm
+opencv-contrib-python
